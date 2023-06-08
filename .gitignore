@@ -1,0 +1,13 @@
+*.sln
+x64/
+Debug/
+.vs/
+
+vimEditor/Debug
+vimEditor/x64
+
+*.txt
+*.vcxproj
+*.filters
+*.user
+
